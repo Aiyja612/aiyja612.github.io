@@ -1,3 +1,6 @@
+_ERD model that displays the relationship of Customers and a Retail Nike Shoe store._
+
+
 ```mermaid
 erDiagram
  
